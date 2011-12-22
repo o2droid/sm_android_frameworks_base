@@ -675,7 +675,7 @@
     </style>
 
     <style name="TextAppearance.Widget.IconMenu.Item" parent="TextAppearance.Small">
-        <item name="textColor">@color/bright_foreground_dark</item>
+        <item name="textColor">?textColorPrimaryInverse</item>
     </style>
 
     <style name="TextAppearance.Widget.EditText">
